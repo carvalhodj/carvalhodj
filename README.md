@@ -15,7 +15,7 @@ Currently I work as an **Embedded Systems Engineer**, working on projects aimed 
 <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 
 - Databases:
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%230075A8.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 - OS:
 <img src="https://img.shields.io/badge/linux%20-%23313131.svg?&style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/windows%20-%231563FF.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
