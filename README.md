@@ -2,9 +2,11 @@
 
 I'm Daniel.
 
-:factory: Currently I work as an **Embedded Systems Engineer** at **FRT Tecnologia Eletrônica**, working on projects aimed at the public transport market.
+:office: Currently I work as an **Embedded Systems Engineer** at **FRT Tecnologia Eletrônica**, working on projects aimed at the public transport market.
 
-:classical_building: I have a **bachelor's degree in Information Systems**, and at the university I worked on projects focused on the areas of **IoT, Distributed Systems and Data Science**. Creator of the blog **"Blog do Oak"**, where I usually post topics about programming.
+:classical_building: I have a **bachelor's degree in Information Systems**, and at the university I worked on projects focused on the areas of **IoT, Distributed Systems and Data Science**. Creator of the blog **"Blog do Oak"**, where I usually post topics about programming. I also have a course published on <a href="https://www.udemy.com/user/daniel-jose-de-carvalho/">Udemy</a>.
+
+:busts_in_silhouette: I have already volunteered at technology events, both as part of the organizing team and as a speaker. Whenever possible, I try to transmit my knowledge to others, in order to help everyone.
 
 ---
 
