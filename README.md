@@ -10,7 +10,7 @@ I'm Daniel.
 
 ### Social media
 
-<a href="https://www.linkedin.com/in/carvalhodj" target="_blank"><img src="https://img.shields.io/badge/linkedin%20-%230167ff.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/carvalhodj" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin%20-%230167ff.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
