@@ -3,8 +3,10 @@
 I'm Daniel.
 
 | :factory: | Currently I work as an **Embedded Systems Engineer** at **FRT Tecnologia Eletrônica**, working on projects aimed at the public transport market. |
+| --- | --- |
 
 | :classical_building: | I have a **bachelor's degree in Information Systems**, and at the university I worked on projects focused on the areas of **IoT, Distributed Systems and Data Science**. Creator of the blog **"Blog do Oak"**, where I usually post topics about programming. |
+| --- | --- |
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/carvalhodj)
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/k9WJN0Jf)
