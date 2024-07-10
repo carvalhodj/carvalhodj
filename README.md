@@ -2,9 +2,11 @@
 
 I'm Daniel.
 
-:office: Currently I work as an **Embedded Systems Engineer** at **FRT Tecnologia Eletrônica**, working on projects aimed at the public transport market.
+:office: Currently I work as an **Software Engineer** at **Stone Co**, working on projects that aim to facilitate electronic payment methods.
 
-:classical_building: I have a **bachelor's degree in Information Systems**, and at the university I worked on projects focused on the areas of **IoT, Distributed Systems and Data Science**. Creator of the blog **"Blog do Oak"**, where I usually post topics about programming. I also have a course published on <a href="https://www.udemy.com/user/daniel-jose-de-carvalho/">Udemy</a>.
+:classical_building: I have a **master's degree in Applied Informatics**, where my work covered machine learning techniques and wireless device location knowledge, and a **bachelor's degree in Information Systems**, where I worked on projects focused on the areas of **IoT, Distributed Systems and Data Science**. 
+
+<!--Creator of the blog **"Blog do Oak"**, where I usually post topics about programming. I also have a course published on <a href="https://www.udemy.com/user/daniel-jose-de-carvalho/">Udemy</a>.-->
 
 :busts_in_silhouette: I have already volunteered at technology events, both as part of the organizing team and as a speaker. Whenever possible, I try to transmit my knowledge to others, in order to help everyone.
 
@@ -20,7 +22,7 @@ I'm Daniel.
 
 #### Programming Languages
 
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=flat&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=flat&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/kotlin%20-%235835CC.svg?&style=flat&logo=kotlin&logoColor=white"/>
 
 #### Embedded Systems
 
@@ -28,7 +30,7 @@ I'm Daniel.
 
 #### Frameworks/Libs
 
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/apache%20spark-%235835CC.svg?&style=flat&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/opencv%20-%230167ff.svg?&style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/apache%20spark-%235835CC.svg?&style=flat&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/opencv%20-%230167ff.svg?&style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/keras%20-%23940E0A.svg?&style=flat&logo=keras&logoColor=white"/>
 
 #### Databases
 
